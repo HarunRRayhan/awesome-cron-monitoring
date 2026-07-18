@@ -19,6 +19,7 @@
 - [Better Stack](https://betterstack.com) - Uptime monitoring with heartbeats. 1 free heartbeat.
 - [Honeybadger](https://www.honeybadger.io) - Check-ins for cron jobs with exit code and output capture.
 - [Sentry Crons](https://sentry.io/for/cron-monitoring/) - Monitor and fix cron job and scheduled task issues.
+- [Crontinel](https://crontinel.com) - Laravel-native cron, queue & Horizon monitoring. Detects silent supervisor failures, queue bottlenecks, and missed cron runs. Open-source package + optional SaaS. Free tier available.
 - [Apprise](https://github.com/caronc/apprise) - Push notifications for your cron jobs.
 
 ## Self-Hosted
